@@ -22,5 +22,3 @@ In order to make it work, please do the following:
 
 In order to have the entire workshop PPT, you can download it from here:
 https://drive.google.com/file/d/1mMPO0zrphJ4-4WMXlDkmZpEcP5ctRkv-/view?usp=sharing
-
-Adam is great!
